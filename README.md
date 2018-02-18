@@ -14,7 +14,7 @@ These are links to the two apps:
 
 There is not much content or graphical design put into the project, because the beauty is behind the scenes with the SSO service.
 
-Dummy username: dummy@bradraymondgriffingmail.onmicrosoft.com
+Dummy username: dummy@bradraymondgriffingmail.onmicrosoft.com<br>
 Dummy password: "Ia20yo.MniB."
 
 Feel free to check out my project's ability to sign you in simultaneously to both of the applications.
